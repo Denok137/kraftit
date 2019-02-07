@@ -1,0 +1,7 @@
+C:\Users\Denok137\source\repos\kraftit\queue\bin\Debug\queue.exe.config
+C:\Users\Denok137\source\repos\kraftit\queue\bin\Debug\queue.exe
+C:\Users\Denok137\source\repos\kraftit\queue\bin\Debug\queue.pdb
+C:\Users\Denok137\source\repos\kraftit\queue\obj\Debug\queue.csprojAssemblyReference.cache
+C:\Users\Denok137\source\repos\kraftit\queue\obj\Debug\queue.csproj.CoreCompileInputs.cache
+C:\Users\Denok137\source\repos\kraftit\queue\obj\Debug\queue.exe
+C:\Users\Denok137\source\repos\kraftit\queue\obj\Debug\queue.pdb

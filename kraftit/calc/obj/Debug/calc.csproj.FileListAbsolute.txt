@@ -1,0 +1,7 @@
+C:\Users\Denok137\source\repos\kraftit\calc\bin\Debug\calc.exe.config
+C:\Users\Denok137\source\repos\kraftit\calc\bin\Debug\calc.exe
+C:\Users\Denok137\source\repos\kraftit\calc\bin\Debug\calc.pdb
+C:\Users\Denok137\source\repos\kraftit\calc\obj\Debug\calc.csproj.CoreCompileInputs.cache
+C:\Users\Denok137\source\repos\kraftit\calc\obj\Debug\calc.exe
+C:\Users\Denok137\source\repos\kraftit\calc\obj\Debug\calc.pdb
+C:\Users\Denok137\source\repos\kraftit\calc\obj\Debug\calc.csprojAssemblyReference.cache
